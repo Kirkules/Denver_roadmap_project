@@ -19,7 +19,7 @@ these cameras at every intersection and to record and store all the correspondin
 data, then you'd want to be able to choose the most useful subset of locations at
 which to place trackers.
 
-Our write-up describing the experiment and theory can be found [here]()
+Our write-up describing the experiment and theory can be found [here](https://github.com/Kirkules/Denver_roadmap_project/blob/master/Privacy_Project_Final_Draft.pdf)
 
 We worked on code separately for this project, and only really exchanged data files,
 so I don't have the code written by the other group members.
