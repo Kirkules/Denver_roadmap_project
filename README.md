@@ -10,7 +10,7 @@ This repository has code I (Kirk) wrote in R for a project in the
 "Privacy in Large Databases" class at the University of Denver in Fall 2015. 
 
 Broadly, the goal of the project was to examine how to place trackers around a
-road network to support the reconstruction of the path taken during trackable
+road network to support the reconstruction of the path taken by trackable
 agents during any given trip they take.
 
 For example, a tracker may be a video camera that records timestamps when a given
